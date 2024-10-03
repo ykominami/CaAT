@@ -42,7 +42,7 @@
     "ts-loader": "^9.2.1",
     "typescript": "^5.4.3",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^4.10.0",
     "webpack-node-externals": "^3.0.0"
   },
   "dependencies": {}
